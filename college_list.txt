@@ -1,0 +1,221 @@
+COLLEGES IN PATNA, BIHAR
+========================
+
+Note: Addresses are given as commonly listed. Please check them on each
+college's official website before using them for anything official.
+
+Part A (1-13): technical colleges. 1-5 come from the original list;
+6-13 were added from web directories (Careers360, CollegeBatch,
+Wikipedia, official brochures) in Oct 2026. Flagged PINs are where
+sources disagreed.
+Part B (14-41): all other colleges from the original list, women's
+colleges first. Original list kept in college_list_full_backup.txt.
+
+
+=========== TECH COURSES: QUICK LIST ===========
+Colleges offering engineering, BCA, IT or computer science courses.
+Courses checked against directories (mostly Careers360, Getmyuni,
+Collegedunia) in Oct 2026; confirm on each college's website.
+"#" = entry number below, where the address is listed.
+
+Engineering / technology
+ 1. IIT Patna ..................................... B.Tech, M.Tech      (#1)
+ 2. NIT Patna ..................................... B.Tech, M.Tech, MCA (#2)
+ 3. BIT Mesra, Patna Campus ....................... B.Tech, BCA, MCA    (#6)
+ 4. Amity University Patna ........................ B.Tech, BCA, MCA    (#7)
+ 5. Bakhtiyarpur College of Engineering ........... B.Tech              (#8)
+ 6. Netaji Subhas Institute of Technology ......... B.Tech, Diploma     (#9)
+ 7. Maulana Azad College of Engg & Technology ..... B.Tech, Diploma     (#10)
+ 8. Bihar Engineering University .................. Affiliates B.Tech   (#11)
+ 9. Government Polytechnic Patna-7 ................ Engg Diploma        (#12)
+10. New Government Polytechnic Patna-13 ........... Engg Diploma        (#13)
+11. Aryabhatta Knowledge University ............... B.Tech (Hons), BCA  (#4)
+12. St. Xavier's College of Mgmt & Technology ..... BCA                 (#5)
+13. NIFT Patna .................................... Design / Fashion Tech (#3)
+
+Women's colleges
+14. Patna Women's College ......................... BCA                 (#14)
+15. J.D. Women's College .......................... BCA                 (#16)
+16. Sri Arvind Mahila College ..................... BCA (women only)    (#17)
+17. Ganga Devi Mahila College ..................... BCA                 (#18)
+
+Other colleges
+18. Patna Science College ......................... B.Sc CS, BCA        (#30)
+19. A.N. College .................................. BCA                 (#36)
+20. College of Commerce, Arts & Science ........... BCA                 (#37)
+21. B.N. College .................................. BCA                 (#31)
+22. T.P.S. College (Thakur Prasad Singh College) .. BCA                 (#39)
+23. R.K.D. College ................................ BCA                 (#38)
+24. Patna College ................................. BCA (unconfirmed, single source) (#29)
+
+Not included: Magadh Mahila College (BCA not confirmed); all medical,
+law, management, arts and training colleges (no tech courses found).
+
+
+=========== PART A: TECHNICAL COLLEGES ===========
+
+--- CORE ENGINEERING / TECHNOLOGY INSTITUTES ---
+
+1.  Indian Institute of Technology (IIT) Patna
+    Address: Kanpa Road, Bihta, Patna, Bihar - 801106
+
+2.  National Institute of Technology (NIT) Patna
+    Address: Ashok Rajpath, Mahendru, Patna, Bihar - 800005
+
+
+--- OTHER TECHNOLOGY-ORIENTED INSTITUTES ---
+
+3.  National Institute of Fashion Technology (NIFT) Patna
+    Address: Mithapur Institutional Area, Patna, Bihar - 800001
+    (Design & fashion technology; good for design/UX roles)
+
+4.  Aryabhatta Knowledge University (AKU)
+    Address: Mithapur, Patna, Bihar - 800001
+    (Runs its own technology centres, e.g. nanotechnology)
+
+5.  St. Xavier's College of Management & Technology
+    Address: Digha Ghat, Patna, Bihar - 800011
+    (BCA / IT programmes)
+
+
+--- ADDED: ENGINEERING COLLEGES ---
+
+6.  Birla Institute of Technology (BIT Mesra), Patna Campus
+    Address: Near Patna Airport, P.O. Bihar Veterinary College,
+             Patna, Bihar - 800014
+
+7.  Amity University Patna
+    Address: Near Rupaspur Police Station, Rupaspur, Bailey Road,
+             Patna, Bihar - 801503
+
+8.  Bakhtiyarpur College of Engineering (BCE)
+    Address: Champapur, Dedaur, Bakhtiyarpur, Patna, Bihar - 803212
+    (Some listings still show the old temporary campus: Old IIT
+    Campus, Patliputra, Patna - 800013. Check before visiting.)
+
+9.  Netaji Subhas Institute of Technology (NSIT)
+    Address: Amhara, Bihta, Patna, Bihar - 801118
+    (PIN unconfirmed: some documents give 801103 or 801106)
+
+10. Maulana Azad College of Engineering & Technology (MACET)
+    Address: Gorhna, Neora, Patna, Bihar - 801113
+    (PIN unconfirmed: an AICTE report gives 801115)
+
+11. Bihar Engineering University (BEU)
+    Address: AKU Campus, Mithapur, Patna, Bihar - 800001
+    (Affiliating university for Bihar's engineering colleges;
+    useful for state-wide outreach)
+
+
+--- ADDED: POLYTECHNICS ---
+
+12. Government Polytechnic Patna-7
+    Address: P.O. Gulzarbagh, Patna, Bihar - 800007
+
+13. New Government Polytechnic Patna-13
+    Address: Patliputra, Patna, Bihar - 800013
+
+
+
+=========== PART B: OTHER COLLEGES ===========
+
+--- WOMEN'S COLLEGES ---
+
+14. Patna Women's College
+    Address: Bailey Road, Patna, Bihar - 800001
+
+15. Magadh Mahila College
+    Address: Mazharul Haque Path, near Gandhi Maidan, Patna, Bihar - 800001
+
+16. J.D. Women's College
+    Address: Bailey Road, Patna, Bihar - 800023
+
+17. Sri Arvind Mahila College
+    Address: Kazipur, Patna, Bihar - 800004
+
+18. Ganga Devi Mahila College
+    Address: Kankarbagh, Patna, Bihar - 800020
+
+
+--- UNIVERSITIES & NATIONAL INSTITUTES ---
+
+19. All India Institute of Medical Sciences (AIIMS) Patna
+    Address: Phulwari Sharif, Patna, Bihar - 801507
+
+20. Patna University
+    Address: Ashok Rajpath, Patna, Bihar - 800005
+
+21. Chanakya National Law University (CNLU)
+    Address: Nyaya Nagar, Mithapur, Patna, Bihar - 800001
+
+
+--- MEDICAL COLLEGES ---
+
+22. Patna Medical College & Hospital (PMCH)
+    Address: Ashok Rajpath, Patna, Bihar - 800004
+
+23. Indira Gandhi Institute of Medical Sciences (IGIMS)
+    Address: Sheikhpura, Bailey Road, Patna, Bihar - 800014
+
+24. Nalanda Medical College & Hospital (NMCH)
+    Address: Agam Kuan, Patna, Bihar - 800007
+
+25. Patna Dental College & Hospital
+    Address: Ashok Rajpath, Patna, Bihar - 800004
+
+26. Bihar Veterinary College
+    Address: Near Patna Airport, Bailey Road, Patna, Bihar - 800014
+
+
+--- MANAGEMENT COLLEGES ---
+
+27. Chandragupt Institute of Management Patna (CIMP)
+    Address: Mithapur Institutional Area, Patna, Bihar - 800001
+
+28. Lalit Narayan Mishra Institute of Economic Development & Social Change (LNMI)
+    Address: Mithapur, Patna, Bihar - 800001
+
+
+--- PATNA UNIVERSITY CONSTITUENT COLLEGES ---
+
+29. Patna College
+    Address: Ashok Rajpath, Patna, Bihar - 800005
+
+30. Patna Science College
+    Address: Ashok Rajpath, Patna, Bihar - 800005
+
+31. B.N. College (Bihar National College)
+    Address: Ashok Rajpath, Patna, Bihar - 800004
+
+32. Vanijya Mahavidyalaya (College of Commerce, Patna University)
+    Address: Ashok Rajpath, Patna, Bihar - 800005
+
+33. Patna Law College
+    Address: Ashok Rajpath, Patna, Bihar - 800005
+
+34. Patna Training College
+    Address: Ashok Rajpath, Patna, Bihar - 800004
+
+35. College of Arts & Crafts
+    Address: Fraser Road / Buddh Marg, near Patna Museum, Patna, Bihar - 800001
+
+
+--- OTHER POPULAR DEGREE COLLEGES ---
+
+36. A.N. College (Anugrah Narayan College)
+    Address: Boring Road, Patna, Bihar - 800013
+
+37. College of Commerce, Arts & Science
+    Address: Rajendra Nagar, Kankarbagh, Patna, Bihar - 800020
+
+38. Ram Krishna Dwarika College (R.K.D. College)
+    Address: Lohia Nagar, Kankarbagh, Patna, Bihar - 800020
+
+39. T.P.S. College
+    Address: Anisabad, Patna, Bihar - 800002
+
+40. Sri Guru Gobind Singh College
+    Address: Patna City, Patna, Bihar - 800008
+
+41. Oriental College
+    Address: Patna City, Patna, Bihar - 800008
